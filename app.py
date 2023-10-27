@@ -4,8 +4,8 @@ import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
 from PIL import Image
-PAGE_CONFIG = {"page_title":"StColab.io","page_icon":":smiley:","layout":"centered"}
-st.beta_set_page_config(**PAGE_CONFIG)
+# PAGE_CONFIG = {"page_title":"StColab.io","page_icon":":smiley:","layout":"centered"}
+# st.beta_set_page_config(**PAGE_CONFIG)
 # All the plant species in the trained dataset
 labels = [
 	'Chandru',
